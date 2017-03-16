@@ -6,9 +6,9 @@ image manipulation library for [Yii framework 2.0](http://www.yiiframework.com).
 
 For license information check the [LICENSE](LICENSE.md)-file.
 
-[![Latest Stable Version](https://poser.pugx.org/yiisoft/yii2-imagine/v/stable.png)](https://packagist.org/packages/yiisoft/yii2-imagine)
-[![Total Downloads](https://poser.pugx.org/yiisoft/yii2-imagine/downloads.png)](https://packagist.org/packages/yiisoft/yii2-imagine)
-[![Build Status](https://travis-ci.org/yiisoft/yii2-imagine.svg?branch=master)](https://travis-ci.org/yiisoft/yii2-imagine)
+[![Latest Stable Version](https://poser.pugx.org/miserenkov/yii2-imagine/v/stable.png)](https://packagist.org/packages/miserenkov/yii2-imagine)
+[![Total Downloads](https://poser.pugx.org/miserenkov/yii2-imagine/downloads.png)](https://packagist.org/packages/miserenkov/yii2-imagine)
+[![Build Status](https://travis-ci.org/miserenkov/yii2-imagine.svg?branch=master)](https://travis-ci.org/miserenkov/yii2-imagine)
 
 
 Installation
@@ -19,13 +19,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yiisoft/yii2-imagine
+php composer.phar require --prefer-dist miserenkov/yii2-imagine
 ```
 
 or add
 
 ```json
-"yiisoft/yii2-imagine": "~2.0.0"
+"miserenkov/yii2-imagine": "~2.1.1"
 ```
 
 to the `require` section of your composer.json.

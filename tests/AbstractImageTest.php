@@ -3,7 +3,7 @@ namespace yiiunit\extensions\imagine;
 
 use Yii;
 use yii\helpers\FileHelper;
-use yii\imagine\Image;
+use miserenkov\imagine\Image;
 use Imagine\Image\ImageInterface;
 use Imagine\Image\Point;
 

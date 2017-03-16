@@ -40,7 +40,7 @@ image manipulation methods.
 The following example shows how to use this extension:
 
 ```php
-use yii\imagine\Image;
+use miserenkov\imagine\Image;
 
 // frame, rotate and save an image
 Image::frame('path/to/image.jpg', 5, '666', 0)

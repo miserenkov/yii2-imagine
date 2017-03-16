@@ -2,7 +2,7 @@
 
 namespace yiiunit\extensions\imagine;
 
-use yii\imagine\Image;
+use miserenkov\imagine\Image;
 
 /**
  * @group vendor

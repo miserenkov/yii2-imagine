@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\imagine;
+namespace miserenkov\imagine;
 
 use Yii;
 use Imagine\Image\Box;

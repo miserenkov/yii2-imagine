@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\imagine;
+namespace miserenkov\imagine;
 
 /**
  * Image implements most commonly used image manipulation functions using the [Imagine library](http://imagine.readthedocs.org/).
